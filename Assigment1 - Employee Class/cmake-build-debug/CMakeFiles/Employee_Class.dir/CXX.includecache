@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/PROJELER/C/Employee Class/employee.cpp
+employee.h
+H:/PROJELER/C/Employee Class/employee.h
+
+H:/PROJELER/C/Employee Class/employee.h
+string
+H:/PROJELER/C/Employee Class/string
+
+H:/PROJELER/C/Employee Class/main.cpp
+iostream
+-
+employee.h
+H:/PROJELER/C/Employee Class/employee.h
+
